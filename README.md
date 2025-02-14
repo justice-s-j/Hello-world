@@ -1,4 +1,6 @@
 # Hello-world
 My first repository 
-## Firsy Heading
+## First Heading
 ## Second Heading 
+**Let's try bold**
+*How bout this*
