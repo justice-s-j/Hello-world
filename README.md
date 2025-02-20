@@ -17,4 +17,4 @@
   LinkedIn link: www.linkedin.com/in/justice-jones03
 
 ## Versioning 
-Version control or source control allows us to track and manage changes to code and allow teams to access and deploy their porjects.
+Version control or source control allows us to track and manage changes to code and allow teams to access and deploy their projects.
