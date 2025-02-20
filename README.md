@@ -7,7 +7,6 @@ Hello World
 - [ADDITIONAL INFORMATION](#additional-information)
 - [VERSIONING](#versioning)
 
-
   ## Project Title
   Hello World 
 
