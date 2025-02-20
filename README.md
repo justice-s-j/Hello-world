@@ -1,4 +1,4 @@
-Hello World 
+# Hello World 
 
 ## Table of Contents 
 
@@ -8,7 +8,7 @@ Hello World
 - [VERSIONING](#versioning)
 
 ## Project Title
-  Hello World 
+  **Hello World** - First Repository  
 
 ## Description
  This is my introductory project for learning how to create and manage a GitHub repository. It serves as a hands-on practice basics on GitHub such as branches and commits.
